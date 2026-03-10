@@ -8,3 +8,14 @@ GET {{baseUrl}}/health
 
 # Get Rooms
 GET {{baseUrl}}/rooms
+
+###
+
+# Create question
+# @name createQuestion
+POST {{baseUrl}}/rooms/2e365ba6-e032-4c8b-b305-e84cf3b27274/questions
+Content-Type: application/json
+
+{
+    "question":  "o que é vue.js e a sua diferença em relação ao angular?"
+}
