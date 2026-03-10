@@ -1,4 +1,4 @@
-# 🎥 AI Live Assistant
+# 🎥 Let Me Ask Assistant
 
 Uma aplicação desenvolvida para resolver um problema comum em lives de aulas e conteúdos educativos.
 
